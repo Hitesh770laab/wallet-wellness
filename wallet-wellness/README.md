@@ -243,4 +243,4 @@ MIT — free to use, modify, and distribute.
 
 ---
 
-<p align="center">Built with 💜 · Dark theme forever</p>
+<p align="center">Built with 💜 · ~~Hitesh770laab</p>
